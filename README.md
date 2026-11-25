@@ -4,6 +4,7 @@ Junior developer based in Elche, Spain. I study Software Development (DAM) and b
 
 ## Projects you can try
 
+- **[Job Application Agent](https://github.com/thiagoCardoso13/job-application-agent)**: an agent that reads recruiter emails in English and Spanish, updates a tracker, flags deadlines and drafts follow-ups. Read-only Gmail, rules in code, 36 tests; 100% vs 63% for a keyword baseline on 30 synthetic emails. [Live demo](https://job-application-agent-xxdsl3jntxsgwh9ctxkwbf.streamlit.app/)
 - **[Spain Paperwork Assistant](https://github.com/thiagoCardoso13/spain-paperwork-assistant)**: a RAG chatbot over 12 official Spanish pages that cites its sources. 95% retrieval accuracy on tuning questions, 88% on questions written after tuning. [Live demo](https://spain-paperwork-assistant-y7ancesxw2rncyukxz8r5s.streamlit.app/)
 - **[Chat With Your Data](https://github.com/thiagoCardoso13/Project_AI_Agent)**: a text-to-SQL agent on a LangGraph graph I wrote myself. Read-only, self-correcting, 18 tests. [Live demo](https://projectaiagent-pgybf64azfpyftzwls2l2t.streamlit.app/)
 - **[Space Booking API](https://github.com/thiagoCardoso13/space-booking-api)**: Java 21 and Spring Boot, JWT, no double bookings under concurrency, 85 tests on a real PostgreSQL, CI/CD. [API docs](https://space-booking-api-dtam.onrender.com/swagger-ui.html)
